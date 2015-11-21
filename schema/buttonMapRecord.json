@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@base": "http://github.com/juztamau5/ontology/#",
+    "driverRecord": {
+      "@id": "http://github.com/juztamau5/ontology/#driverRecord"
+    },
+    "inputDevice": {
+      "@id": "http://github.com/juztamau5/ontology/#inputDevice"
+    },
+    "buttonMap": {
+      "@id": "http://github.com/juztamau5/ontology/#buttonMap",
+      "@container": "@set"
+    }
+  }
+}

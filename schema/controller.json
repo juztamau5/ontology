@@ -1,0 +1,14 @@
+{
+  "@context": {
+    "@base": "http://github.com/juztamau5/ontology/#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "rdfs:subClassOf": "http://github.com/juztamau5/ontology/#inputDevice",
+    "gamePlatform": {
+      "@id": "http://schema.org/gamePlatform"
+    },
+    "features": {
+      "@id": "http://github.com/juztamau5/ontology/#features",
+      "@container": "@set"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "@context": {
+    "@base": "http://github.com/juztamau5/ontology/#",
+    "xsd": "http://www.w3.org/2001/XMLSchema/#",
+    "driver": {
+      "@id": "http://github.com/juztamau5/ontology/#driver",
+      "@type": "xsd:string"
+    },
+    "driverID": {
+      "@id": "http://github.com/juztamau5/ontology/#driverID",
+      "@type": "xsd:string"
+    },
+    "productID": {
+      "@id": "http://schema.org/productID"
+    },
+    "buttonCount": {
+      "@id": "http://github.com/juztamau5/ontology/#buttonCount",
+      "@type": "xsd:unsignedInt"
+    },
+    "hatCount": {
+      "@id": "http://github.com/juztamau5/ontology/#hatCount",
+      "@type": "xsd:unsignedInt"
+    },
+    "axisCount": {
+      "@id": "http://github.com/juztamau5/ontology/#axisCount",
+      "@type": "xsd:unsignedInt"
+    }
+  }
+}

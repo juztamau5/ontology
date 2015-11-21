@@ -1,0 +1,12 @@
+{
+  "@context": "https://gist.githubusercontent.com/juztamau5/7cce984e2ea62758b571/raw",
+  "@type": "buttonMapRecord",
+  "driverRecord": "https://gist.githubusercontent.com/juztamau5/ee88c8376dd4ce92e1f7/raw",
+  "inputDevice": "https://gist.githubusercontent.com/juztamau5/44c499d2f8bda4389a5d/raw",
+  "buttonMap": [
+    "a=1",
+    "b=0",
+    "rightstickup=+0",
+    "up=up"
+  ]
+}

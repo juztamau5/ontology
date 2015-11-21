@@ -1,0 +1,7 @@
+{
+  "@context": {
+    "@base": "http://github.com/juztamau5/ontology/#",
+    "owl": "http://www.w3.org/2002/07/owl#",
+    "owl:equivalentClass": "http://www.gameontology.com/index.php/Input_Devices"
+  }
+}
