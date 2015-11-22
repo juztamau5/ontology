@@ -1,13 +1,9 @@
 {
   "@context": "https://raw.githubusercontent.com/juztamau5/ontology/master/schema/controller.json",
   "@type": "controller",
-  "label": {
-    "en": "SNES"
-  },
   "description": {
     "en": "The SNES controller adds two additional face buttons (X and Y) to the NES iteration, as well as two shoulder buttons."
   },
-  "gamePlatform": "http://thegamesdb.net/platform/super-nintendo-snes/",
   "faceButtons": [
     "a",
     "b",
@@ -20,6 +16,10 @@
     "x",
     "y"
   ],
+  "gamePlatform": "http://thegamesdb.net/platform/super-nintendo-snes/",
+  "label": {
+    "en": "SNES"
+  },
   "shoulderButtons": [
     "leftbumper",
     "rightbumper"

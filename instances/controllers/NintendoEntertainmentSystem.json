@@ -1,13 +1,9 @@
 {
   "@context": "https://raw.githubusercontent.com/juztamau5/ontology/master/schema/controller.json",
   "@type": "controller",
-  "label": {
-    "en": "NES"
-  },
   "description": {
     "en": "The game controller used for both the NES and the Famicom features a simple four button layout and a cross-shaped joypad."
   },
-  "gamePlatform": "http://thegamesdb.net/platform/nintendo-entertainment-system-nes/",
   "faceButtons": [
     "a",
     "b",
@@ -17,5 +13,9 @@
     "select",
     "start",
     "up"
-  ]
+  ],
+  "gamePlatform": "http://thegamesdb.net/platform/nintendo-entertainment-system-nes/",
+  "label": {
+    "en": "NES"
+  }
 }

@@ -1,10 +1,10 @@
 {
   "@context": "https://raw.githubusercontent.com/juztamau5/ontology/master/schema/driverRecord.json",
   "@type": "driverRecord",
-  "driver": "xinput",
-  "name": "Controller (Xbox wireless receiver for windows)",
-  "productID": "usb:vid_0000&pid_0000",
+  "axisCount": 6,
   "buttonCount": 16,
+  "driver": "xinput",
   "hatCount": 0,
-  "axisCount": 6
+  "name": "Controller (Xbox wireless receiver for windows)",
+  "productID": "usb:vid_0000&pid_0000"
 }

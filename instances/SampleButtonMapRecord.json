@@ -1,13 +1,13 @@
 {
   "@context": "https://raw.githubusercontent.com/juztamau5/ontology/master/schema/buttonMapRecord.json",
   "@type": "buttonMapRecord",
-  "driverRecord": "https://raw.githubusercontent.com/juztamau5/ontology/master/instances/SampleDriverRecord.json",
-  "controller": "https://raw.githubusercontent.com/juztamau5/ontology/master/instances/controllers/Xbox360Controller.json",
   "buttonMap": [
     "a=1",
     "b=0",
     "rightstickup=+0",
     "up=up"
   ],
+  "controller": "https://raw.githubusercontent.com/juztamau5/ontology/master/instances/controllers/Xbox360Controller.json",
+  "driverRecord": "https://raw.githubusercontent.com/juztamau5/ontology/master/instances/SampleDriverRecord.json",
   "timestamp": "2010-05-29T14:17:39+02:00"
 }
