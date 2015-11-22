@@ -1,6 +1,9 @@
 {
   "@context": {
+    /* Base ontology */
     "@base": "http://github.com/juztamau5/ontology/#",
+
+    /* Define properties */
     "driverRecord": {
       "@id": "http://github.com/juztamau5/ontology/#driverRecord"
     },
@@ -11,5 +14,6 @@
       "@id": "http://github.com/juztamau5/ontology/#buttonMap",
       "@container": "@set"
     }
+    /* TODO: timestamp */
   }
 }
