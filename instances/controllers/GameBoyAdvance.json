@@ -1,0 +1,25 @@
+{
+  "@context": "https://raw.githubusercontent.com/juztamau5/ontology/master/schema/controller.json",
+  "@type": "controller",
+  "label": {
+    "en": "GBA"
+  },
+  "description": {
+    "en": "Game Boy Advance is a 32-bit handheld video game console developed by Nintendo."
+  },
+  "gamePlatform": "http://thegamesdb.net/platform/nintendo-gameboy-advance/",
+  "faceButtons": [
+    "a",
+    "b",
+    "down",
+    "left",
+    "right",
+    "select",
+    "start",
+    "up"
+  ],
+  "shoulderButtons": [
+    "leftbumper",
+    "rightbumper"
+  ]
+}

@@ -3,24 +3,37 @@
     /* Base ontology */
     "@base": "http://github.com/juztamau5/ontology/#",
 
-    /* Define namespaces */
-    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-    /*"xsd": "http://www.w3.org/2001/XMLSchema/#",*/
-
-    /* Define relationships */
-    "rdfs:subClassOf": "http://github.com/juztamau5/ontology/#inputDevice",
-
     /* Define properties */
+    "label": {
+      "@id": "http://github.com/juztamau5/ontology/#label",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "http://github.com/juztamau5/ontology/#description",
+      "@container": "@language"
+    },
     "gamePlatform": {
       "@id": "http://schema.org/gamePlatform",
       "@type": "@id"
     },
-    "description": { /* TODO: Find canonical ID */
-      "@id": "http://www.w3.org/2000/01/rdf-schema#description",
-      "@type": "@id"
-    },
-    "features": {
+    "faceButtons": {
       "@id": "http://github.com/juztamau5/ontology/#features",
+      "@container": "@set"
+    },
+    "shoulderButtons": {
+      "@id": "http://github.com/juztamau5/ontology/#features",
+      "@container": "@set"
+    },
+    "triggers": {
+      "@id": "http://github.com/juztamau5/ontology/#features",
+      "@container": "@set"
+    },
+    "analogSticks": {
+      "@id": "http://github.com/juztamau5/ontology/#analogSticks",
+      "@container": "@set"
+    },
+    "haptics": {
+      "@id": "http://github.com/juztamau5/ontology/#haptics",
       "@container": "@set"
     }
   }

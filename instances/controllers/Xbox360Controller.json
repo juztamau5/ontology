@@ -1,0 +1,41 @@
+{
+  "@context": "https://raw.githubusercontent.com/juztamau5/ontology/master/schema/controller.json",
+  "@type": "controller",
+  "label": {
+    "en": "Xbox 360"
+  },
+  "description": {
+    "en": "The Xbox 360 controller is the primary controller for the Microsoft Xbox 360. The wired and wireless versions are also compatible with Microsoft Windows."
+  },
+  "gamePlatform": "http://thegamesdb.net/platform/microsoft-xbox-360/",
+  "faceButtons": [
+    "a",
+    "b",
+    "back",
+    "down",
+    "guide",
+    "left",
+    "leftthumb",
+    "right",
+    "rightthumb",
+    "start",
+    "up",
+    "x",
+    "y"
+  ],
+  "shoulderButtons": [
+    "leftbumper",
+    "rightbumper"
+  ],
+  "triggers": [
+    "lefttrigger",
+    "righttrigger"
+  ],
+  "analogSticks": [
+    "leftstick",
+    "rightstick",
+  ],
+  "haptics": [
+    "rumble"
+  ]
+}

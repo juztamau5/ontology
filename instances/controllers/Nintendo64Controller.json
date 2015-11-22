@@ -1,0 +1,37 @@
+{
+  "@context": "https://raw.githubusercontent.com/juztamau5/ontology/master/schema/controller.json",
+  "@type": "controller",
+  "label": {
+    "en": "Nintendo 64"
+  },
+  "description": {
+    "en": "The Nintendo 64 controller, released in 1996, features ten buttons, a digital control stick and a directional pad, all laid out in an \"M\" shape."
+  },
+  "gamePlatform": "http://thegamesdb.net/platform/nintendo-64/",
+  "faceButtons": [
+    "a",
+    "b",
+    "cdown",
+    "cleft",
+    "cright",
+    "cup",
+    "down",
+    "left",
+    "right",
+    "start",
+    "up",
+  ],
+  "shoulderButtons": [
+    "leftbumper",
+    "rightbumper"
+  ],
+  "triggers": [
+    "z"
+  ],
+  "analogSticks": [
+    "analogstick"
+  ],
+  "haptics": [
+    "rumble"
+  ]
+}
