@@ -33,7 +33,7 @@
   ],
   "analogSticks": [
     "leftstick",
-    "rightstick",
+    "rightstick"
   ],
   "haptics": [
     "rumble"
