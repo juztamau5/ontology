@@ -14,15 +14,15 @@
       "@type": "@id"
     },
     "faceButtons": {
-      "@id": "http://github.com/juztamau5/ontology/#features",
+      "@id": "http://github.com/juztamau5/ontology/#faceButtons",
       "@container": "@set"
     },
     "shoulderButtons": {
-      "@id": "http://github.com/juztamau5/ontology/#features",
+      "@id": "http://github.com/juztamau5/ontology/#shoulderButtons",
       "@container": "@set"
     },
     "triggers": {
-      "@id": "http://github.com/juztamau5/ontology/#features",
+      "@id": "http://github.com/juztamau5/ontology/#triggers",
       "@container": "@set"
     },
     "analogSticks": {
