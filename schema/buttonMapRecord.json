@@ -4,15 +4,19 @@
     "xsd": "http://www.w3.org/2001/XMLSchema/#",
     "driverRecord": {
       "@id": "http://github.com/juztamau5/ontology/#driverRecord",
-      "@type": "xsd:string"
+      "@type": "@id"
     },
-    "inputDevice": {
-      "@id": "http://github.com/juztamau5/ontology/#inputDevice",
-      "@type": "xsd:string"
+    "controller": {
+      "@id": "http://github.com/juztamau5/ontology/#controller",
+      "@type": "@id"
     },
     "buttonMap": {
       "@id": "http://github.com/juztamau5/ontology/#buttonMap",
       "@container": "@set"
+    },
+    "timestamp": {
+      "@id": "http://purl.org/dc/terms/created",
+      "@type": "xsd:dateTime"
     }
   }
 }

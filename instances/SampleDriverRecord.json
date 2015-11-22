@@ -1,8 +1,8 @@
 {
-  "@context": "https://gist.githubusercontent.com/juztamau5/8b704047590b75f32b27/raw",
+  "@context": "https://raw.githubusercontent.com/juztamau5/ontology/master/schema/driverRecord.json",
   "@type": "driverRecord",
   "driver": "xinput",
-  "driverID": "Controller (Xbox wireless receiver for windows)",
+  "name": "Controller (Xbox wireless receiver for windows)",
   "productID": "usb:vid_0000&pid_0000",
   "buttonCount": 16,
   "hatCount": 0,
