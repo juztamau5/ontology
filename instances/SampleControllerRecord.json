@@ -1,0 +1,32 @@
+{
+  "@context": "https://gist.githubusercontent.com/juztamau5/b0d924763046004c97f7/raw",
+  "@type": "controller",
+  "gamePlatform": "XBOX 360",
+  "buttons": [
+    "a",
+    "b",
+    "back",
+    "down",
+    "guide",
+    "left",
+    "leftbumper",
+    "leftstickdown",
+    "leftstickleft",
+    "leftstickright",
+    "leftstickup",
+    "leftthumb",
+    "lefttrigger",
+    "right",
+    "rightbumper",
+    "rightstickdown",
+    "rightstickleft",
+    "rightstickright",
+    "rightstickup",
+    "rightthumb",
+    "righttrigger",
+    "start",
+    "up",
+    "x",
+    "y"
+  ]
+}

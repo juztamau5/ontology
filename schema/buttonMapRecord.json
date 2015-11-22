@@ -1,19 +1,18 @@
 {
   "@context": {
-    /* Base ontology */
     "@base": "http://github.com/juztamau5/ontology/#",
-
-    /* Define properties */
+    "xsd": "http://www.w3.org/2001/XMLSchema/#",
     "driverRecord": {
-      "@id": "http://github.com/juztamau5/ontology/#driverRecord"
+      "@id": "http://github.com/juztamau5/ontology/#driverRecord",
+      "@type": "xsd:string"
     },
     "inputDevice": {
-      "@id": "http://github.com/juztamau5/ontology/#inputDevice"
+      "@id": "http://github.com/juztamau5/ontology/#inputDevice",
+      "@type": "xsd:string"
     },
     "buttonMap": {
       "@id": "http://github.com/juztamau5/ontology/#buttonMap",
       "@container": "@set"
     }
-    /* TODO: timestamp */
   }
 }
