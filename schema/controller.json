@@ -1,9 +1,6 @@
 {
   "@context": {
-    /* Base ontology */
     "@base": "http://github.com/juztamau5/ontology/#",
-
-    /* Define properties */
     "label": {
       "@id": "http://github.com/juztamau5/ontology/#label",
       "@container": "@language"

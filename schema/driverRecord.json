@@ -1,12 +1,7 @@
 {
   "@context": {
-    /* Base ontology */
     "@base": "http://github.com/juztamau5/ontology/#",
-
-    /* Define namespaces */
     "xsd": "http://www.w3.org/2001/XMLSchema/#",
-
-    /* Define properties */
     "driver": {
       "@id": "http://github.com/juztamau5/ontology/#driver",
       "@type": "xsd:string"
