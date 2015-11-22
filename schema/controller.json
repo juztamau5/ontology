@@ -1,10 +1,23 @@
 {
   "@context": {
+    /* Base ontology */
     "@base": "http://github.com/juztamau5/ontology/#",
+
+    /* Define namespaces */
     "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    /*"xsd": "http://www.w3.org/2001/XMLSchema/#",*/
+
+    /* Define relationships */
     "rdfs:subClassOf": "http://github.com/juztamau5/ontology/#inputDevice",
+
+    /* Define properties */
     "gamePlatform": {
-      "@id": "http://schema.org/gamePlatform"
+      "@id": "http://schema.org/gamePlatform",
+      "@type": "@id"
+    },
+    "description": { /* TODO: Find canonical ID */
+      "@id": "http://www.w3.org/2000/01/rdf-schema#description",
+      "@type": "@id"
     },
     "features": {
       "@id": "http://github.com/juztamau5/ontology/#features",
