@@ -13,10 +13,6 @@
     "buttonMap": {
       "@id": "http://github.com/juztamau5/ontology/#buttonMap",
       "@container": "@set"
-    },
-    "timestamp": {
-      "@id": "http://purl.org/dc/terms/created",
-      "@type": "xsd:dateTime"
     }
   }
 }

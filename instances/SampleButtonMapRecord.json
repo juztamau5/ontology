@@ -8,6 +8,5 @@
     "up=up"
   ],
   "controller": "https://raw.githubusercontent.com/juztamau5/ontology/master/instances/controllers/Xbox360Controller.json",
-  "driverRecord": "https://raw.githubusercontent.com/juztamau5/ontology/master/instances/SampleDriverRecord.json",
-  "timestamp": "2010-05-29T14:17:39+02:00"
+  "driverRecord": "https://raw.githubusercontent.com/juztamau5/ontology/master/instances/SampleDriverRecord.json"
 }
