@@ -12,7 +12,7 @@
     },
     "buttonMap": {
       "@id": "http://github.com/juztamau5/ontology/#buttonMap",
-      "@container": "@set"
+      "@container": "xsd:string"
     }
   }
 }

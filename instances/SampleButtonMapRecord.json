@@ -1,12 +1,7 @@
 {
   "@context": "https://raw.githubusercontent.com/juztamau5/ontology/master/schema/buttonMapRecord.json",
   "@type": "buttonMapRecord",
-  "buttonMap": [
-    "a=1",
-    "b=0",
-    "rightstickup=+0",
-    "up=up"
-  ],
+  "buttonMap": "a=1&b=0&rightstickup=+0&up=up",
   "controller": "https://raw.githubusercontent.com/juztamau5/ontology/master/instances/controllers/Xbox360Controller.json",
   "driverRecord": "https://raw.githubusercontent.com/juztamau5/ontology/master/instances/SampleDriverRecord.json"
 }
