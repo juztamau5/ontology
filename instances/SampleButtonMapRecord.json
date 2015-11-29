@@ -1,7 +1,29 @@
 {
   "@context": "https://raw.githubusercontent.com/juztamau5/ontology/master/schema/buttonMapRecord.json",
   "@type": "buttonMapRecord",
-  "buttonMap": "a=1&b=0&rightstickup=+0&up=up",
+  "buttonMap": [
+      "a=0",
+      "b=1",
+      "back=9",
+      "down=12",
+      "guide=10",
+      "left=13",
+      "leftbumper=4",
+      "leftstick_up=-1",
+      "leftstick_right=+0",
+      "leftthumb=6",
+      "lefttrigger=+4",
+      "right=14",
+      "rightbumper=5",
+      "rightstick_up=-3",
+      "rightstick_right=+2",
+      "rightthumb=7",
+      "righttrigger=+5",
+      "start=8",
+      "up=11",
+      "x=2",
+      "y=3"
+  ],
   "controller": "https://raw.githubusercontent.com/juztamau5/ontology/master/instances/controllers/Xbox360Controller.json",
   "driverRecord": "https://raw.githubusercontent.com/juztamau5/ontology/master/instances/SampleDriverRecord.json"
 }

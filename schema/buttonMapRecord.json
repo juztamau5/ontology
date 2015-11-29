@@ -1,7 +1,6 @@
 {
   "@context": {
     "@base": "http://github.com/juztamau5/ontology/#",
-    "xsd": "http://www.w3.org/2001/XMLSchema/#",
     "driverRecord": {
       "@id": "http://github.com/juztamau5/ontology/#driverRecord",
       "@type": "@id"
@@ -12,7 +11,7 @@
     },
     "buttonMap": {
       "@id": "http://github.com/juztamau5/ontology/#buttonMap",
-      "@container": "xsd:string"
+      "@container": "@set"
     }
   }
 }
