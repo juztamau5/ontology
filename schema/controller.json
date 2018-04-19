@@ -1,37 +1,35 @@
 {
-  "@context": {
-    "@base": "http://github.com/juztamau5/ontology/#",
-    "label": {
-      "@id": "http://github.com/juztamau5/ontology/#label",
-      "@container": "@language"
-    },
-    "description": {
-      "@id": "http://github.com/juztamau5/ontology/#description",
-      "@container": "@language"
-    },
-    "gamePlatform": {
-      "@id": "http://schema.org/gamePlatform",
-      "@type": "@id"
-    },
-    "faceButtons": {
-      "@id": "http://github.com/juztamau5/ontology/#faceButtons",
-      "@container": "@set"
-    },
-    "shoulderButtons": {
-      "@id": "http://github.com/juztamau5/ontology/#shoulderButtons",
-      "@container": "@set"
-    },
-    "triggers": {
-      "@id": "http://github.com/juztamau5/ontology/#triggers",
-      "@container": "@set"
-    },
-    "analogSticks": {
-      "@id": "http://github.com/juztamau5/ontology/#analogSticks",
-      "@container": "@set"
-    },
-    "haptics": {
-      "@id": "http://github.com/juztamau5/ontology/#haptics",
-      "@container": "@set"
-    }
+  "@base": "http://github.com/juztamau5/ontology/#",
+  "label": {
+    "@id": "http://github.com/juztamau5/ontology/#label",
+    "@container": "@language"
+  },
+  "description": {
+    "@id": "http://github.com/juztamau5/ontology/#description",
+    "@container": "@language"
+  },
+  "gamePlatform": {
+    "@id": "http://schema.org/gamePlatform",
+    "@type": "@id"
+  },
+  "faceButtons": {
+    "@id": "http://github.com/juztamau5/ontology/#faceButtons",
+    "@container": "@set"
+  },
+  "shoulderButtons": {
+    "@id": "http://github.com/juztamau5/ontology/#shoulderButtons",
+    "@container": "@set"
+  },
+  "triggers": {
+    "@id": "http://github.com/juztamau5/ontology/#triggers",
+    "@container": "@set"
+  },
+  "analogSticks": {
+    "@id": "http://github.com/juztamau5/ontology/#analogSticks",
+    "@container": "@set"
+  },
+  "haptics": {
+    "@id": "http://github.com/juztamau5/ontology/#haptics",
+    "@container": "@set"
   }
 }
